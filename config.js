@@ -5,6 +5,6 @@
    token: đúng chuỗi TOKEN bạn đặt trong Code.gs
 */
 window.VIECNHA_CONFIG = {
-  url: "PASTE_YOUR_EXEC_URL_HERE",
-  token: "PASTE_YOUR_TOKEN_HERE",
+  url: "https://script.google.com/macros/s/AKfyc.../exec",
+  token: "chuoi-token-trong-Code.gs",
 };
